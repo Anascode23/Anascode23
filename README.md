@@ -4,8 +4,6 @@
 
 🔧 Specializing in building robust web applications using ASP.NET MVC framework
 
-🌐 Experienced in developing scalable and maintainable software solutions
-
 💡 Constantly exploring new technologies and best practices in web development
 
 📚 Strong background in .NET ecosystem, C#, and SQL Server
